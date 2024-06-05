@@ -36,6 +36,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushang2410&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kushang2410" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushang2410&show_icons=true&locale=en&theme=tokyonight" alt="kushang2410" /></p>
 
 <a href="https://github.com/kushang2410">
