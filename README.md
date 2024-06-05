@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web designing and development**
 - 🌱 I’m currently learning **Full Stack**
-- 📫 How to reach me **(https://kushang-24.github.io/portfolio/)**
+- 📫 How to reach me **kushangtanawala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
