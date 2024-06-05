@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kushang Tanawala</h1>
-<h3 align="center"></h3>
-    
+<h3 align="center">A passionate FullStack Developer from India</h3>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushang2410&label=Profile%20views&color=0e75b6&style=flat" alt="SahilKapadia31" /> </p>
+   
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="right" alt="Coding" width="400">
 
 
 - 🔭 I’m currently working on **Web designing and development**
 - 🌱 I’m currently learning **Full Stack**
 - 📫 How to reach me **(https://kushang-24.github.io/portfolio/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://wa.me/9023918382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="kushang2410" height="30" width="40" /></a>
+<a href="https://instagram.com/kushang._2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilkapadia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kushang-tanawala-498164283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,8 +36,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
 
-
-### 🔥 &nbsp; My Stats :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushang2410&show_icons=true&locale=en&theme=tokyonight" alt="kushang2410" /></p>
 
 <a href="https://github.com/kushang2410">
   <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=kushang2410&layout=compact&langs_count=8&theme=tokyonight" />
