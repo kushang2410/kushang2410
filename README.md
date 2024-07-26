@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Full Stack**
 - 📫 How to reach me **kushangtanawala@gmail.com**
 - 📑 You can show the [**resume**](https://drive.google.com/file/d/1MjLUgcLPASVji9l79fkYQ9qo4HNjuMTE/view?usp=sharing)
-- My [**Portfolio**](https://kushang2410.github.io/My-Portfolio/)
+- 🖥️ My [**Portfolio**](https://kushang2410.github.io/My-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
