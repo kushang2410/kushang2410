@@ -37,6 +37,9 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
+![FireBase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Versal](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushang2410&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kushang2410" /></p>
 
