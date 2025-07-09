@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushang Tanawala</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate FullStack & MERN Developer</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushang2410&label=Profile%20views&color=0e75b6&style=flat" alt="SahilKapadia31" /> </p>
    
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="right" alt="Coding" width="400">
