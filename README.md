@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Web designing and development**
 - 🌱 I’m recently completed **Full Stack**
 - 📫 How to reach me **kushangtanawala@gmail.com**
-- 📑 You can show the [**resume**](https://drive.google.com/file/d/1ID4ybAHC43Giqa80XUB0KdjVgKLaiHur/view?usp=drivesdk)
+- 📑 You can show the [**resume**](https://drive.google.com/file/d/19Qc0k17Azr8vkyZNs6ad4F9aP9nisnvZ/view?usp=sharing)
 - 🖥️ My [**Portfolio**](https://portfolio-gold-six-25.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
